@@ -30,20 +30,20 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281361281833', 'Aldi', true]
+['6283894145941', 'Fiki', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283838186170'
-global.nomorown = '6281361281833'
-global.nomorown2 = '6282376267531'//bisa nama pacarmu
+global.nomorbot = '6283899262114'
+global.nomorown = '6283894145941'
+global.nomorown2 = 'Vera'//bisa nama pacarmu
 global.nomorwa = '0'//gakusah di ganti
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Aldi'
+global.author = 'Created By Fiki'
 global.namebot = '𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
@@ -53,34 +53,34 @@ global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuw
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `𝒀𝒖𝒔𝒉𝒊𝒏𝒐𝑴𝒅`
-global.stickpack = '𝑨𝒍𝒅𝒊 𝐗 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝒂𝒑𝒑'
+global.stickpack = '𝙁𝙞𝙠𝙞 𝐗 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝒂𝒑𝒑'
 global.stickauth = `© Yushino MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown = 'Aldi'
+global.nameown = 'Fiki'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/Fv2eOPrYGu0HByn89WRDFH' //group whatsapp
 global.lynk = 'https://lynk.id/hyuuraofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/al.0fficial_/'
-global.sgh = 'https://github.com/Aldi-Ganz-Official' //github
+global.sgh = 'https://github.com/TuyulAkun' //github
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0813 6128 1833'
+global.pdana = '_'
 global.povo = '-'
-global.pgopay = '0813 6128 1833'
-global.ppulsa = '0813 6128 1833'
-global.ppulsa2 = '083838186170'
+global.pgopay = '083802824988'
+global.ppulsa = '083894145941'
+global.ppulsa2 = '0838399262114'
 global.psaweria = 'https://saweria.co/hyuura'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
+global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 10 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.LyAtas1 = '☰ ━━━ ❨'
 global.LyAtas2 = '❩ ━━┄┈ •⟅'
@@ -193,10 +193,11 @@ global.rpg = {
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WEBSITE APIKEY ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.zenzkey = 'b8040941f7'
-global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e6b
+global.saipulkey = 'XmhXL2qO'
+global.lolkey = '8e66d0934cf741bfd2182c16'
+global.gbt = 'Fikiofc' //PUNYA WAHID 357d3c85079c4e0818731e6b
 global.APIs = { // API Prefix
-  // name: 'https://website'
+  gbt: 'https://api-wa.kontenboty.repl.co/', 
   nrtm: 'https://nurutomo.herokuapp.com',
   rey: 'https://server-api-rey.herokuapp.com',
   xteam: 'https://api.xteam.xyz',
@@ -224,8 +225,8 @@ global.APIs = { // API Prefix
 //⳹ NOTE !! EXAMPLE ➢ Name Api: 'website api'
 
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
-  'https://api.saipulanuar.my.id': '9vxw5GqJ',
+  'https://api-wa.kontenboty.repl.co/': 'Fikiofc'
+  'https://api.saipulanuar.my.id': 'XmhXL2qO',
   'https://api.xteam.xyz': 'ebb6251cc00f9c63',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
   'https://api.lolhuman.xyz': 'e54205a4ca2caa368cc067bb',// 8e66d0934cf741bfd2182c16
