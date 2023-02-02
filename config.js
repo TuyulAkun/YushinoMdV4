@@ -225,7 +225,7 @@ global.APIs = { // API Prefix
 //⳹ NOTE !! EXAMPLE ➢ Name Api: 'website api'
 
 global.APIKeys = { // APIKey Here
-  'https://api-wa.kontenboty.repl.co/': 'Fikiofc'
+  'https://api-wa.kontenboty.repl.co/': 'Fikiofc', 
   'https://api.saipulanuar.my.id': 'XmhXL2qO',
   'https://api.xteam.xyz': 'ebb6251cc00f9c63',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
